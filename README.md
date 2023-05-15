@@ -1,0 +1,2 @@
+# openai
+Repositorio Temporiak ai
